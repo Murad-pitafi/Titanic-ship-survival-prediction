@@ -35,4 +35,4 @@ Working on the Titanic dataset enhanced proficiency in data analysis and machine
 
 The Titanic dataset project provided a valuable learning experience and helped foster growth in data analysis and machine learning skills. The ability to preprocess data effectively and select the best model for a given dataset was enhanced. This project laid a strong foundation for applying newfound knowledge to future projects and data-driven decision-making.
 
-Feel free to explore the project further and reach out with any feedback or potential collaborations.
+Feel free to explore the project further and reach out with any feedback or potential collaborations. :)
