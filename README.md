@@ -23,7 +23,7 @@ Several machine learning models were employed to analyze the Titanic dataset. Th
 
 Training and testing were performed on each model to assess their performance. This comparative analysis provided valuable insights into the strengths and weaknesses of different algorithms for the given dataset.
 
-## Learning Outcomes
+## Learning Outcome
 
 Working on the Titanic dataset enhanced proficiency in data analysis and machine learning techniques. Key learning outcomes include:
 
