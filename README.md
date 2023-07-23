@@ -1,4 +1,4 @@
-# Titanic ship survival-prediction
+# Titanic ship survival prediction
 
 This project focuses on analyzing the Titanic dataset using data analysis techniques and machine learning models. The goal was to gain insights into the dataset, preprocess the data, and evaluate the performance of various machine learning algorithms. The project helped improve proficiency in data analysis, machine learning, and interpreting results.
 
